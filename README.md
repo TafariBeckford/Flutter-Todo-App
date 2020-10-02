@@ -1,4 +1,4 @@
-# todo_app
+# To Do Flutter Application
 
 To do Flutter application
 
